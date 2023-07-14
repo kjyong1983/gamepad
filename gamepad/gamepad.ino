@@ -10,16 +10,20 @@
 #define PIN_DOWN      3
 #define PIN_LEFT      4
 #define PIN_RIGHT     5
+
 #define PIN_CROSS     6
 #define PIN_CIRCLE    7
 #define PIN_TRIANGLE  8
 #define PIN_SQUARE    9
+
 #define PIN_L1        10
-#define PIN_L2        14
+#define PIN_L2        18//14
+
 #define PIN_R1        16
-#define PIN_R2        15
-#define PIN_SELECT    18
-#define PIN_START     19
+#define PIN_R2        19//15
+
+#define PIN_SELECT    14//18
+#define PIN_START     15//19
 
 int stickMode = 0; // 0 = dpad, 1 = left stick
 

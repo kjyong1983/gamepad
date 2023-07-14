@@ -87,7 +87,7 @@ const int Pin_ButtonRB = 16;
 
 const int Pin_ButtonBack = 14;
 //6;
-const int Pin_ButtonStart = 19; // start 버튼 작동안함
+const int Pin_ButtonStart = 15; // start 버튼 작동안함
 //15;
 //7;
 
